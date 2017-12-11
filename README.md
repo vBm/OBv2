@@ -9,6 +9,7 @@
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](http://opensource.org/licenses/GPL-3.0)
 [![Known Vulnerabilities](https://snyk.io/test/github/OmertaBeyond/OBv2/badge.svg)](https://snyk.io/test/github/OmertaBeyond/OBv2)
 [![Greenkeeper badge](https://badges.greenkeeper.io/OmertaBeyond/OBv2.svg)](https://greenkeeper.io/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FvBm%2FOBv2.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FvBm%2FOBv2?ref=badge_shield)
 
 # About
 
@@ -80,3 +81,7 @@ You can find us at:
 * Hack and poke around the source
 * Run `grunt` to check source with `eslint`, `csslint` and `lintspaces`
 * Open `Pull Request` for review :-)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FvBm%2FOBv2.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FvBm%2FOBv2?ref=badge_large)
